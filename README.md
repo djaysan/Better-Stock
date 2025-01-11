@@ -1,9 +1,9 @@
 # Better-Stock for the TRIMUI BRICK
 
 Disclaimer: 
-I made this pack for my personal use - I only designed the icons for the apps and the main Menu.
-The other console Icons and BG are not mine, I just renamed them and placed them in the correct folder for them to show up on my device.
-The rest is a collection of Apps and Cores.
+I made this pack for my personal use - I only designed the icons for the apps, main Menu and black theme.
+The other console icons and BG are not mine, I just renamed them and placed them in the correct folder for them to show up on my device.
+The rest is a collection of Enhancements,Apps and Cores that can be found bellow.
 
 
 
@@ -22,7 +22,9 @@ Content:
 - New theme 'Better Stock Black Remix' entirely reworked to be more subtile and fits better with the Noire BG imo.
 
 Instructions:
-download latest release here: https://github.com/djaysan/Better-Stock/releases
+To use this, copy it to your Brick SD card and overwrite all files when prompted. 
+If you are starting with a blank SD card, first copy the SD base package from here: https://github.com/trimui/assets_brick/releases
+then download latest release here: https://github.com/djaysan/Better-Stock/releases
 Simply drag & drop to merge all the folders.
 To use ALT icons or BG images - drag them out of their folder to overwrite the exisitng ones
 
