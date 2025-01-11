@@ -1,0 +1,28 @@
+{
+    "label":"MD",
+    "icontop":"../_theme/ic-md.png",
+    "icon":"",
+    "background":"../_theme/bg-md.png",
+    "themecolor":"0088CF",
+    "launch":"launch_genplus.sh",
+    "rompath":"../../Roms/MD",
+    "imgpath":"../../Imgs/MD",
+    "useswap":0,
+    "shortname":0,
+    "hidebios":0,
+    "extlist":"bin|gen|md|smd|32x|zip",
+    "launchlist": [
+        {
+            "name": "PicoDrive",
+            "launch": "launch.sh"
+        },
+        {
+            "name": "GenesisPlusGX",
+            "launch": "launch_genplus.sh"
+        },
+        {
+            "name": "GenesisPlusGX Wide",
+            "launch": "launch_genplus_wide.sh"
+        }
+    ]
+}
