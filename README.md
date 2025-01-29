@@ -1,4 +1,4 @@
-# Better-Stock for the TRIMUI BRICK
+# Better-Stock for the TRIMUI BRICK (a "fork" of StockMix until we get CrossMix Os)
 
 Disclaimer: 
 I made this pack for my personal use - I only designed the icons for the apps, main Menu and black theme.
